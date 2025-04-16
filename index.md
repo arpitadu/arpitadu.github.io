@@ -12,6 +12,6 @@ Welcome to my personal website!
 
 ## 🔗 Connect with me
 
-- [GitHub](https://github.com/arpitadutta)
-- [LinkedIn](https://linkedin.com/in/your-link)
-- [Email me](mailto:your.email@example.com)
+- [GitHub](https://github.com/arpitadu)
+- [LinkedIn](https://linkedin.com/arpitadu)
+- [Email me](mailto:adutta.ds@gmail.com)
